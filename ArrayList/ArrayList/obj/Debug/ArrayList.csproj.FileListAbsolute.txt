@@ -1,0 +1,7 @@
+C:\GitHub Project\C#\arrayList\ArrayList\ArrayList\bin\Debug\ArrayList.exe.config
+C:\GitHub Project\C#\arrayList\ArrayList\ArrayList\bin\Debug\ArrayList.exe
+C:\GitHub Project\C#\arrayList\ArrayList\ArrayList\bin\Debug\ArrayList.pdb
+C:\GitHub Project\C#\arrayList\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.AssemblyReference.cache
+C:\GitHub Project\C#\arrayList\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
+C:\GitHub Project\C#\arrayList\ArrayList\ArrayList\obj\Debug\ArrayList.exe
+C:\GitHub Project\C#\arrayList\ArrayList\ArrayList\obj\Debug\ArrayList.pdb
